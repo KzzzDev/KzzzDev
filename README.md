@@ -8,50 +8,31 @@
 
 ### Python
 
-- Webアプリケーションの開発経験
-- Django / Flask
-- Raspberr Pi
-- Jupyter lab
-- TensorFlow
+Webアプリケーションの開発経験 / Django / Flask / Raspberry Pi / Jupyter lab / TensorFlow
 
 ### HTML / CSS
 
-- CG-ARTS検定 WEBデザイナー検定 エキスパート
-- Webアプリケーションの開発経験
-- Bootstrap 5
+CG-ARTS検定 WEBデザイナー検定 エキスパート / Webアプリケーションの開発経験 / Bootstrap 5
 
 ### JavaScript
 
-- Webアプリケーションの開発経験
-- Three.js
-- Node.js
+Webアプリケーションの開発経験 / Three.js / Node.js
 
 ### Java
 
-- Eclipse
-- Spring Boot
-- Android Studio
+Eclipse / Spring Boot / Android Studio
 
 ### Database
 
-- mariaDB
-- MySQL
-- Oracle
-- H2
-- PostgreSQL
+mariaDB / MySQL / Oracle / H2 / PostgreSQL
 
 ### ツール
 
-- Git
-- WordPress
-- AWS
-- Nagios
-- Adobe Illustrator
+Git / WordPress / AWS / Nagios / Adobe Illustrator
 
 ### 資格
 
-- CG-ARTS検定 WEBデザイナー検定 エキスパート
-- 応用情報技術者
+CG-ARTS検定 WEBデザイナー検定 エキスパート / 応用情報技術者
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
