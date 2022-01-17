@@ -28,13 +28,10 @@ mariaDB / MySQL / Oracle / H2 / PostgreSQL
 
 ### ツール
 
-Git / WordPress / AWS / Nagios / Adobe Illustrator
+Git / WordPress / AWS / Docker / Kubernetes / Linux / Nagios / Adobe Illustrator
 
 ### 資格
 
 CG-ARTS検定 WEBデザイナー検定 エキスパート / 応用情報技術者
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kazumasa1)
-<!-- ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac) -->
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazumasa1)
-<!-- ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact) -->
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kazumasa1)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazumasa1)
