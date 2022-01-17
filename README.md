@@ -1,6 +1,6 @@
 # About Me
 
-## 原　一将 = Hara Kazumasa（2000 ~ ）
+### 原　一将 = Hara Kazumasa（2000 ~ ）
 
 ### HAL東京 高度情報処理学科 3年次 在学中（23年卒業予定）
 
@@ -34,7 +34,7 @@ Git / WordPress / AWS / Nagios / Adobe Illustrator
 
 CG-ARTS検定 WEBデザイナー検定 エキスパート / 応用情報技術者
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kazumasa1)
+<!-- ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=zizi4n5&repo=homebridge-switchbot-for-mac) -->
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazumasa1)
+<!-- ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact) -->
