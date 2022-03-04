@@ -28,7 +28,7 @@ mariaDB / MySQL / Oracle / H2 / PostgreSQL
 
 ### ツール
 
-Git / WordPress / AWS / Docker / Kubernetes / Linux / Nagios / Adobe Illustrator
+Git / WordPress / AWS / Docker / Kubernetes / Linux / Nagios / Prometheus / Adobe Illustrator
 
 ### 資格
 
