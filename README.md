@@ -1,26 +1,12 @@
 # About Me
 
-### 原　一将 = Hara Kazumasa（2000 ~ ）
-
-### HAL東京 高度情報処理学科 4年次 サイバーセキュリティ専攻　在学中（23年卒業予定）
+### Kazumasa（2000 ~ ）
 
 ## スキル・資格
 
 ### Python
 
 Webアプリケーションの開発経験 / Django / Flask / Raspberry Pi / Jupyter lab / TensorFlow
-
-### HTML / CSS
-
-CG-ARTS検定 WEBデザイナー検定 エキスパート / Webアプリケーションの開発経験 / Bootstrap 5
-
-### JavaScript
-
-Webアプリケーションの開発経験 / Three.js / Node.js
-
-### Java
-
-Eclipse / Spring Boot / Android Studio
 
 ### Database
 
