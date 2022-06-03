@@ -2,23 +2,17 @@
 
 ### Kazumasa（2000 ~ ）
 
-## スキル・資格
+## 言語
 
 ### Python
 
-Webアプリケーションの開発経験 / Django / Flask / Raspberry Pi / Jupyter lab / TensorFlow
+## インフラ
 
-### Database
+AWS / Docker / Kubernetes / Linux / Nagios / Prometheus / Terraform
 
-mariaDB / MySQL / Oracle / H2 / PostgreSQL
+## 勉強中
 
-### ツール
-
-Git / WordPress / AWS / Docker / Kubernetes / Linux / Nagios / Prometheus / Adobe Illustrator
-
-### 資格
-
-CG-ARTS検定 WEBデザイナー検定 エキスパート / 応用情報技術者
+Terraform / Golang
 
 ### 開発環境
 
