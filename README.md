@@ -4,7 +4,7 @@
 
 ## 言語
 
-### Python
+Python / Golang
 
 ## インフラ
 
@@ -12,7 +12,7 @@ AWS / Docker / Kubernetes / Linux / Nagios / Prometheus / Terraform
 
 ## 勉強中
 
-Terraform / Golang
+Terraform / Datadog / Golang
 
 ### 開発環境
 
