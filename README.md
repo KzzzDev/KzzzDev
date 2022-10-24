@@ -23,7 +23,7 @@ AWS / Docker / Kubernetes / Linux / Nagios / Prometheus / Terraform
 
 ## 習得したい
 
-Terraform / Datadog
+Terraform / Datadog / Ruby on Rails / Golang / Elixir
 
 ## 勉強中
 
