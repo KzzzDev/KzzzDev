@@ -17,15 +17,15 @@ SRE / セキュリティ
 
 ## インフラ
 
-AWS / Docker / Kubernetes / Linux / Nagios / Prometheus / Terraform
+AWS / Docker / Kubernetes / Nagios / Prometheus
 
 ## 習得したい
 
-Terraform / Datadog / Ruby on Rails / Golang / Elixir
+Terraform / Golang / Elixir
 
 ## 勉強中
 
-Golang / Ruby / Python / Elixir
+Golang / Elixir
 
 ### 開発環境
 
