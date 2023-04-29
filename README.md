@@ -4,22 +4,20 @@
 SRE見習い²<br>
 錬金術師見習い²
 
-## 言語
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazumasa1&layout=compact)
+### Languages
+<p align="left"> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 興味分野
 
-SRE / セキュリティ
+<img src="https://raw.githubusercontent.com/Kazumasa1/Kazumasa1/main/profile-summary-card-output/github/0-profile-details.svg" width=720vw >
 
-## 勉強中
+<img src="https://raw.githubusercontent.com/Kazumasa1/Kazumasa1/main/profile-summary-card-output/github/4-productive-time.svg">&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazumasa1&layout=compact" height=200vw >
 
-Golang / Elixir
 
 ### 開発環境
 
 https://kazumasa1.github.io/MY-ROOM-TOUR/
 
-<!-- GitHub README.mdにThree.jsのシーンを埋め込む -->
-<iframe width="300" height="200"
-    src="https://kazumasa1.github.io/MY-ROOM-TOUR/"> </iframe>
+
+
+![](https://komarev.com/ghpvc/?username=Kazumasa1)
