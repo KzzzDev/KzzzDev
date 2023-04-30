@@ -13,7 +13,7 @@ SRE見習い²<br>
 
 <img src="https://raw.githubusercontent.com/Kazumasa1/Kazumasa1/main/profile-summary-card-output/github/0-profile-details.svg" width=720vw >
 
-<img src="https://raw.githubusercontent.com/Kazumasa1/Kazumasa1/main/profile-summary-card-output/github/4-productive-time.svg">&emsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazumasa1&layout=compact" height=200vw >
+<img src="https://raw.githubusercontent.com/Kazumasa1/Kazumasa1/main/profile-summary-card-output/github/4-productive-time.svg">&emsp;<img src="https://github-readme-stats-clone-mu.vercel.app/api/top-langs/?username=Kazumasa1&layout=compact&count_private=true" height=200vw >
 
 
 ### 開発環境
