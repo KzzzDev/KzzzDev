@@ -1,6 +1,6 @@
 # About Me
 
-### Kazumasa（2000 ~ ）
+### Kzzz（2000 ~ ）
 SRE見習い²<br>
 錬金術師見習い²<br>
 
