@@ -4,9 +4,7 @@
 SRE見習い²<br>
 錬金術師見習い²<br>
 
-
 <a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Python%20Elixir%20Go%20Rust%20JavaScript%20&l0=00417a&l1=8fcbff&l2=36a0ff&l3=39a2ff&l4=0088ff&bg=22272e&frame=22272e&comment="></a>
-
 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -26,18 +24,8 @@ SRE見習い²<br>
   </a>
 </p>
 
-
-
 [![](https://raw.githubusercontent.com/KzzzDev/KzzzDev/main/profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/KzzzDev/KzzzDev/main/profile-summary-card-output/prussian/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KzzzDev/KzzzDev/main/profile-summary-card-output/prussian/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/KzzzDev/KzzzDev/main/profile-summary-card-output/prussian/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KzzzDev/KzzzDev/main/profile-summary-card-output/prussian/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-
-### 開発環境
-
-https://kzzzDev.github.io/MY-ROOM-TOUR/
-
-
 
 ![](https://komarev.com/ghpvc/?username=Kazumasa1)
