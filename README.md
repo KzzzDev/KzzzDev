@@ -5,7 +5,7 @@ SRE見習い²<br>
 錬金術師見習い²<br>
 
 
-<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%BB&l0=bddfff&l1=8fcbff&l2=36a0ff&l3=38a2ff&l4=0088ff&bg=173045&frame=173045&comment="></a>
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="typograssy" src="https://typograssy.deno.dev/api?text=Python%20Elixir%20Go%20Rust%20JavaScript%20&l0=00417a&l1=8fcbff&l2=36a0ff&l3=39a2ff&l4=0088ff&bg=22272e&frame=22272e&comment="></a>
 
 
 <p align="left">
